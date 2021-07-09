@@ -23,4 +23,12 @@ Uncomment the line num 220 to 227 in lit.py for training and comment again for c
 Give the path of the saved pretrained model in generate.py
 Then give the text input in check.py file and run check.py to get the result.
 
+A few examples:
+
 ![image](https://user-images.githubusercontent.com/87189221/125092442-a66ed480-e0d1-11eb-9518-2f0b008bd6e3.png)
+
+![image](https://user-images.githubusercontent.com/87189221/125092598-c900ed80-e0d1-11eb-830d-136846fa707a.png)
+Still better than season 8 ;-)
+
+![image](https://user-images.githubusercontent.com/87189221/125092642-d28a5580-e0d1-11eb-887f-44b1ee723b5e.png)
+Everyone does :-/
