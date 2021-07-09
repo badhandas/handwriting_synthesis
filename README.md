@@ -1,6 +1,8 @@
 # Handwriting Synthesis using Graves approach
 
 This repository contains my attempt at implementing Alex Graves paper on sequence generation in Pytorch lightning module.
+Please find the paper: https://arxiv.org/abs/1308.0850v5
+
 
 Steps:
 
